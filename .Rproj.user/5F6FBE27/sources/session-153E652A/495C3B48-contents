@@ -1,0 +1,31 @@
+---
+title: "Teaching"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style>
+body {
+  text-align: justify}
+
+h1 {
+  text-align: center
+}
+</style>
+
+I taught in the cognitive science program at the University of Osnabrück in the academic year 2020/ 2021. During this period, I designed, instructed, and assessed all my courses (with the help of a wonderful teaching assistant). I also taught guest seminar sessions at the University of Osnabrück and the University of Tübingen as well as a course at the Göttingen Summer School in Linguistics.
+
+**Past courses**
+
+* <span style="font-size:11pt;font-weight:bold;">[2022]</span> Introduction to generalized linear modeling for linguists (Göttingen Summer School in Linguistics 7)
+
+* <span style="font-size:11pt;font-weight:bold;">[2020/ 2021]</span> Experimental linguistics reading club
+
+* <span style="font-size:11pt;font-weight:bold;">[2020/ 2021]</span> Language and thought
+
+* <span style="font-size:11pt;font-weight:bold;">[2020]</span> Basics of data visualization for behavioral scientists [[**course page**]](https://vini-macuch-silva.github.io/basics-of-data-viz-for-behavioral-scientists/)
+
+* <span style="font-size:11pt;font-weight:bold;">[2020]</span> Introduction to psycholinguistics: Investigating linguistic meaning [[**course page**]](https://vini-macuch-silva.github.io/intro-to-psycholinguistics/)
+
