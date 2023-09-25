@@ -1,5 +1,5 @@
 ---
-title: "Welcome to DiscomatiX"
+title: "Welcome to DiscoMatiX"
 description:
   
 site: distill::distill_website
