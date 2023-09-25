@@ -1,9 +1,10 @@
 ---
-title: "Welcome to DiscomatiX - Discourse and Pragmatics Interest Group!"
+title: "Welcome to DiscomatiX"
 description:
   
 site: distill::distill_website
 ---
+<<<<<<< HEAD
 We are a group of (early career) researchers working on **disco**urse and prag**mat**ics using e**x**perimental approaches. Our group is specifically focused on the interface between theoretical and empirical approaches. The field of discourse and pragmatics is characterized by many different frameworks (i.e. Neo- and Post-Gricean pragmatics, discourse representation theories, RSA, etc.). We believe that empirical approaches can help to further develop these theories, but applying well-known psycholinguistic techniques in this area is challenging for two reasons: first, the gap between abstract theoretical constructs testable predictions is large; second, the contextual nature of discourse and pragmatics is difficult to implement with experimental paradigms that have been optimized for word- and sentence processing. Plausible communicative contexts are crucial for eliciting natural pragmatic behavior and generalizing our findings, but negatively influences the experimental control crucial for replicability. The goal of our group is thus:
 
 * to critically assess the (in)compatibility of different theoretical frameworks in the field of discourse and pragmatics;
@@ -11,3 +12,22 @@ We are a group of (early career) researchers working on **disco**urse and prag**
 * to develop best practices for empirically testing theoretical predictions in ecologically valid and theoretically stringent tasks.
 
 The first step in achieving these goals is to bring together interested researchers in the fields of discourse and pragmatics through a series of online meetings, to exchange ideas and experiences. In this series, invited speakers will discuss issues related to the above topics and researchers will have the opportunity to engage in discussion.
+=======
+
+## Who?
+
+We are a group of (early career) researchers working on **disc**ourse and prag**mati**cs using e**x**perimental approaches. Our group is specifically focused on the interface between theoretical and empirical approaches. Continue reading to learn more about what we mean by this.
+
+## What? 
+
+We bring together interested researchers in the fields of discourse and pragmatics to exchange ideas and experiences. Through these encounters, we aim to:
+
+* critically assess the (in)compatibility of different theoretical frameworks in the field of discourse and pragmatics
+* develop best practices for empirically testing theoretical predictions in ecologically valid and theoretically stringent tasks
+
+Our first step is an on-line series, in which invited speakers discuss issues related to the above topics and researchers will have the opportunity to engage in discussion.
+
+## Why?
+
+The field of discourse and pragmatics is characterized by many different frameworks (i.e. Neo- and Post-Gricean pragmatics, discourse representation theories, RSA, etc.). We believe that empirical approaches can help to further develop these theories, but applying well-known psycholinguistic techniques in this area is challenging for two reasons: first, the gap between abstract theoretical constructs testable predictions is large; second, the contextual nature of discourse and pragmatics is difficult to implement with experimental paradigms that have been optimized for word- and sentence processing. Plausible communicative contexts are crucial for eliciting natural pragmatic behavior and generalizing our findings, but negatively influences the experimental control crucial for replicability. Through this interest group, we hope to contribute to aligning different frameworks and enhancing experimental approaches. 
+>>>>>>> 33cead726153f1b2b3f3cf8d25d71a5cd8a36c4c
