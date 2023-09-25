@@ -2,24 +2,24 @@
   "articles": [
     {
       "path": "index.html",
-      "title": "Welcome to DiscomatiX - Discourse and Pragmatics Interest Group!",
+      "title": "Welcome to DiscomatiX",
       "author": [],
-      "contents": "\r\nWe are a group of (early career) researchers working on discourse and pragmatics using experimental approaches. Our group is specifically focused on the interface between theoretical and empirical approaches. The field of discourse and pragmatics is characterized by many different frameworks (i.e. Neo- and Post-Gricean pragmatics, discourse representation theories, RSA, etc.). We believe that empirical approaches can help to further develop these theories, but applying well-known psycholinguistic techniques in this area is challenging for two reasons: first, the gap between abstract theoretical constructs testable predictions is large; second, the contextual nature of discourse and pragmatics is difficult to implement with experimental paradigms that have been optimized for word- and sentence processing. Plausible communicative contexts are crucial for eliciting natural pragmatic behavior and generalizing our findings, but negatively influences the experimental control crucial for replicability. The goal of our group is thus:\r\nto critically assess the (in)compatibility of different theoretical frameworks in the field of discourse and pragmatics;\r\nto develop best practices for empirically testing theoretical predictions in ecologically valid and theoretically stringent tasks.\r\nThe first step in achieving these goals is to bring together interested researchers in the fields of discourse and pragmatics through a series of online meetings, to exchange ideas and experiences. In this series, invited speakers will discuss issues related to the above topics and researchers will have the opportunity to engage in discussion.\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-09-15T09:58:42+01:00"
+      "contents": "\r\nWho?\r\nWe are a group of (early career) researchers working on discourse and pragmatics using experimental approaches. Our group is specifically focused on the interface between theoretical and empirical approaches. Continue reading to learn more about what we mean by this.\r\nWhat?\r\nWe bring together interested researchers in the fields of discourse and pragmatics to exchange ideas and experiences. Through these encounters, we aim to:\r\ncritically assess the (in)compatibility of different theoretical frameworks in the field of discourse and pragmatics\r\ndevelop best practices for empirically testing theoretical predictions in ecologically valid and theoretically stringent tasks\r\nOur first step is an on-line series, in which invited speakers discuss issues related to the above topics and researchers will have the opportunity to engage in discussion.\r\nWhy?\r\nThe field of discourse and pragmatics is characterized by many different frameworks (i.e. Neo- and Post-Gricean pragmatics, discourse representation theories, RSA, etc.). We believe that empirical approaches can help to further develop these theories, but applying well-known psycholinguistic techniques in this area is challenging for two reasons: first, the gap between abstract theoretical constructs testable predictions is large; second, the contextual nature of discourse and pragmatics is difficult to implement with experimental paradigms that have been optimized for word- and sentence processing. Plausible communicative contexts are crucial for eliciting natural pragmatic behavior and generalizing our findings, but negatively influences the experimental control crucial for replicability. Through this interest group, we hope to contribute to aligning different frameworks and enhancing experimental approaches.\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-09-25T11:37:36+01:00"
     },
     {
       "path": "meetings.html",
       "title": "Meetings",
       "author": [],
       "contents": "\r\nBelow is a list of past and upcoming meetings of our interest group. We meet 3-4 times a term, always virtually. Do get in touch with us if you’d like to discuss options for presenting at one of our meetings!\r\nUpcoming meetings - Winter term 2023\r\nPast meetings\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-09-15T09:58:43+01:00"
+      "last_modified": "2023-09-25T11:37:36+01:00"
     },
     {
       "path": "team.html",
       "title": "Who we are",
       "author": [],
-      "contents": "\r\nOur interest group was founded in 2023 by Clare Patterson, Marian Marchal, and Vinicius Macuch Silva.\r\nClare XX\r\nMarian XX\r\nVinicius XX\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-09-15T09:58:44+01:00"
+      "contents": "\r\nOur interest group was founded in 2023 by Clare Patterson, Marian Marchal, and Vinicius Macuch Silva.\r\nClare XX\r\nMarian Marchal\r\nI am a PhD student at Saarland University in Vera Demberg’s lab. My work focuses on the role of relational and contextual cues in processing discourse relations, but I am interested in anything remotely related to this. In my research, I try to combine various methodologies: I conduct corpus research and psycholinguistic experiments, in which I use both on-line and off-line tasks.\r\nVinicius Macuch Silva\r\nI’m a post-doctoral researcher working with Bodo Winter at the University of Birmingham.\r\nI’m interested in how people use language to create and manage meaning in communication, both when interacting with others and when producing and interpreting language in various other settings. In my research I use primarily quantitative empirical methods, including controlled experimentation as well as computational and corpus analysis, to investigate issues related to pragmatic inferencing, strategic communication, argumentation and stance-taking, as well as expressive and affective meaning.\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-09-25T11:37:37+01:00"
     }
   ],
   "collections": []

@@ -4,10 +4,14 @@ title: "Who we are"
 
 Our interest group was founded in 2023 by Clare Patterson, Marian Marchal, and Vinicius Macuch Silva.
 
-Clare XX
+**Clare XX**
 
-Marian Marchal
+**Marian Marchal**
 
 I am a PhD student at Saarland University in Vera Demberg's lab. My work focuses on the role of relational and contextual cues in processing discourse relations, but I am interested in anything remotely related to this. In my research, I try to combine various methodologies: I conduct corpus research and psycholinguistic experiments, in which I use both on-line and off-line tasks.
 
-Vinicius XX
+**Vinicius Macuch Silva**
+
+I’m a post-doctoral researcher working with Bodo Winter at the University of Birmingham.
+
+I’m interested in how people use language to create and manage meaning in communication, both when interacting with others and when producing and interpreting language in various other settings. In my research I use primarily quantitative empirical methods, including controlled experimentation as well as computational and corpus analysis, to investigate issues related to pragmatic inferencing, strategic communication, argumentation and stance-taking, as well as expressive and affective meaning.
