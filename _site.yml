@@ -1,10 +1,10 @@
 name: "DiscomatiX"
-title: "DiscomatiX"
+title: "DiscoMatiX"
 output_dir: "."
 navbar:
+  logo:
+    image: logo/DiscoMatiX_dark_transparent.png
   right:
-    - text: "Home"
-      href: index.html
     - text: "Meetings"
       href: meetings.html
     - text: "Team"
