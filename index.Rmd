@@ -7,7 +7,7 @@ site: distill::distill_website
 
 ### Who?
 
-We are a group of (early career) researchers working on **Disco**urse and prag**Mati**cs using e**X**perimental approaches. Our group is specifically focused on the interface between theoretical and empirical approaches. Continue reading to learn more about what we mean by this.
+We are a group of (early career) researchers working on **Disco**urse and prag**Mati**cs using e**X**perimental approaches. Our group is specifically focused on the interface between theoretical and empirical approaches.
 
 ### What? 
 
