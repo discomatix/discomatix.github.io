@@ -2,34 +2,36 @@
 title: "Meetings"
 ---
 
+<style>
+body {
+  text-align: justify}
+
+h1 {
+  text-align: center
+}
+</style>
+
 We will kick off our interest group with an online mini-series this winter semester. You can find our upcoming and past meetings below. To join these sessions, please send an email to  'discomatix [dot] group [at] gmail [dot] com'.
 
 ## Upcoming meetings
 
 ### October 18 - 16:00-16:50 CEST
-**Chris Cummins**, ***University of Edinburgh***
+**[Chris Cummins](https://www.crcummins.com/)**, ***University of Edinburgh***
 
-Chris Cummins is a Reader in Linguistics and English Language at the University of Edinburgh. His research is mostly in experimental semantics and pragmatics, focusing on why speakers choose to use particular linguistic forms, and how hearers interpret this.
+**Psychic linguistics?**
 
-In his ongoing work, he's continuing to explore how we communicate about quantity, as well as how we make decisions based on our understanding of what a speaker has told us, for instance in high-stakes domains such as financial and medical interactions. He's particularly interested in how we infer additional features of the situation, such as the speaker's knowledge state and potentially their argumentative agenda, from the utterance, and how this feeds into decision-making.
+Readers of experimental linguistics papers can occasionally be struck by a curious sensation. Based on what’s in the methods section, you don’t know whether a particular manipulation will make a difference to the outcome variable (say, response time), or in which direction it will shift if so. But when you look at the full lists of stimuli, you suddenly develop a strong sense of what’s going to happen, and that premonition comes true upon reading the rest of the paper.
 
-**Abstract**
-Available soon.
+In this talk I use this idea briefly to discuss three points: whether we’re allowed to ‘accidentally’ introduce confounds in our materials; how the main-text examples in a paper relate to what’s in the appendix; and under what circumstances it’s really necessary to leave the armchair and actually run a study.
 
 ### November 15 - 16:00-16:50 CET
-**Ingmar Brilmayer**, ***University of Cologne***
-
-Ingmar Brilmayer is a postdoctoral researcher at the University of Cologne’s Xlinc Lab on the project “Communication Electrified” (Volkswagen Stiftung). There he has built a lab which combines mobile EEG and eye-tracking recordings in naturalistic interactions. His research interests are in the neurobiological basis of language processing and in neuropsychological correlates of referential processes in natural settings, as well as individual differences and predictive processes that underpin language processing.
+**[Ingmar Brilmayer](https://idsl1.phil-fak.uni-koeln.de/personen/lehrende-a-z/dr-ingmar-brilmayer)**, ***University of Cologne***
 
 **Abstract**
 Available soon.
 
 ### December 6 - 16:00-16:50 CET
-**Vera Demberg**, ***Saarland University***
-
-Vera Demberg is a Professor of Computer Science and Computational Linguistics at Saarland University.
-She has been working on discourse and pragmatics with her team in both the SFB1102 'Information Density and Linguistic Encoding' as well as the ERC-funded 'Individualized Interaction in Discourse'.
-In her research, she combines both experimental and computational approaches to discourse and pragmatics in order to develop cognitive models of human language understanding.
+**[Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html)**, ***Saarland University***
 
 **Abstract**
 Available soon.

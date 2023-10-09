@@ -5,6 +5,19 @@ description:
 site: distill::distill_website
 ---
 
+<style>
+body {
+  text-align: justify}
+
+h1 {
+  text-align: center
+}
+</style>
+
+```{r, echo = FALSE, fig.align = 'center',}
+knitr::include_graphics("logo/DiscoMatix_dark_transparent.png")
+```
+
 ### Who?
 
 We are a group of (early career) researchers working on **Disco**urse and prag**Mati**cs using e**X**perimental approaches. Our group is specifically focused on the interface between theoretical and empirical approaches.
@@ -16,8 +29,14 @@ We bring together interested researchers in the fields of discourse and pragmati
 * critically assess the (in)compatibility of different theoretical frameworks in the field of discourse and pragmatics
 * develop best practices for empirically testing theoretical predictions in ecologically valid and theoretically stringent tasks
 
-Our first step is an on-line series, in which invited speakers discuss issues related to the above topics and researchers will have the opportunity to engage in discussion.
+Our first step is an on-line series, in which invited speakers discuss issues related to the above topics and researchers will have the opportunity to engage in discussion (see [Meetings](https://discomatix.github.io/meetings.html)).
 
 ### Why?
 
-The field of discourse and pragmatics is characterized by many different frameworks (i.e. Neo- and Post-Gricean pragmatics, discourse representation theories, RSA, etc.). We believe that empirical approaches can help to further develop these theories, but applying well-known psycholinguistic techniques in this area is challenging for two reasons: first, the gap between abstract theoretical constructs and testable predictions is large; second, the contextual nature of discourse and pragmatics is difficult to implement with experimental paradigms that have been optimized for word- and sentence processing. Plausible communicative contexts are crucial for eliciting natural pragmatic behavior and generalizing our findings, but negatively influences the experimental control crucial for replicability. Through this interest group, we hope to contribute to aligning different frameworks and enhancing experimental approaches.
+Empirical research in this field is difficult for two reasons: 
+
+* first, there is a gap between theoretical constructs and testable predictions
+
+* second, there is a tension between the contextual nature of discourse and pragmatics and experimental control
+
+For more information, read our [Mission statement](https://discomatix.github.io/mission-statement.html).
