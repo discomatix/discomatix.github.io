@@ -28,6 +28,7 @@ In this talk I use this idea briefly to discuss three points: whether we’re al
 **[Ingmar Brilmayer](https://idsl1.phil-fak.uni-koeln.de/personen/lehrende-a-z/dr-ingmar-brilmayer)**, ***University of Cologne***
 
 **Combined eyetracking and EEG in an interactive setting: perspective-taking, decision making and action selection**
+
 The ability to adopt another person's perspective is a fundamental social skill, crucial for various aspects of daily interaction. Research has explored the cognitive mechanisms involved in perspective-taking, revealing its dependence on factors like linguistic context, task, culture, and cognitive resources. However, the definition of perspective-taking behavior remains ambiguous in the literature. Currently, the absence of measurable effects is often interpreted as evidence for perspective-taking.
 
 This study challenges this assumption by simultaneously investigating gaze patterns and electroencephalographic (EEG) data in a real-world director task. In the first study, participants faced common ground conflicts involving size-contrasted objects, with eye-tracking results showing an increased number of looks to competitor objects in conflict trials and a reduced number of looks to target objects. Event-related potentials (ERP) showed a significant P300 effect in conflict trials over posterior channels and a simultaneous frontal negativity.
