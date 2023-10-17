@@ -24,11 +24,17 @@ Readers of experimental linguistics papers can occasionally be struck by a curio
 
 In this talk I use this idea briefly to discuss three points: whether we’re allowed to ‘accidentally’ introduce confounds in our materials; how the main-text examples in a paper relate to what’s in the appendix; and under what circumstances it’s really necessary to leave the armchair and actually run a study.
 
-### November 15 - 16:00-16:50 CET
+### November 15 - 14:00-14:50 CET
 **[Ingmar Brilmayer](https://idsl1.phil-fak.uni-koeln.de/personen/lehrende-a-z/dr-ingmar-brilmayer)**, ***University of Cologne***
 
-**Abstract**
-Available soon.
+**Combined eyetracking and EEG in an interactive setting: perspective-taking, decision making and action selection**
+The ability to adopt another person's perspective is a fundamental social skill, crucial for various aspects of daily interaction. Research has explored the cognitive mechanisms involved in perspective-taking, revealing its dependence on factors like linguistic context, task, culture, and cognitive resources. However, the definition of perspective-taking behavior remains ambiguous in the literature. Currently, the absence of measurable effects is often interpreted as evidence for perspective-taking.
+
+This study challenges this assumption by simultaneously investigating gaze patterns and electroencephalographic (EEG) data in a real-world director task. In the first study, participants faced common ground conflicts involving size-contrasted objects, with eye-tracking results showing an increased number of looks to competitor objects in conflict trials and a reduced number of looks to target objects. Event-related potentials (ERP) showed a significant P300 effect in conflict trials over posterior channels and a simultaneous frontal negativity.
+
+The second study aimed to reduce cognitive load by reducing the number of objects and by using identical objects as hidden competitors, revealing that participants primarily fixated on the director's face, then the target, and finally the empty (target-)compartment, while (almost) completely ignoring the competitors. Statistical analysis showed significant differences between conditions, with a higher number of looks to the target in the conflict condition - the reverse of study 1. The same holds true for the ERP data: a frontal positivity and a posterior negativity following common ground conflicts - again the reverse as compared to study 1.
+
+The findings propose a continuum of cognitive and action-oriented strategies in perspective-taking, influenced by available information and cognitive resources. Gaze patterns in designs akin to the director task might reflect evidence accumulation for referential decisions and attention orienting, mirrored in the P300 ERP component, which is sensitive to or marks cognition-action transitions. This challenges the simplistic interpretation of gaze behavior as a direct indicator of perspective-taking, and emphasizes the role of multimodal cognitive processes involved in perspective taking during the director task.
 
 ### December 6 - 16:00-16:50 CET
 **[Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html)**, ***Saarland University***
