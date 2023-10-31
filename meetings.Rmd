@@ -15,20 +15,11 @@ We will kick off our interest group with an online mini-series this winter semes
 
 ## Upcoming meetings
 
-### October 18 - 16:00-16:50 CEST
-**[Chris Cummins](https://www.crcummins.com/)**, ***University of Edinburgh***
-
-**Psychic linguistics?**
-
-Readers of experimental linguistics papers can occasionally be struck by a curious sensation. Based on what’s in the methods section, you don’t know whether a particular manipulation will make a difference to the outcome variable (say, response time), or in which direction it will shift if so. But when you look at the full lists of stimuli, you suddenly develop a strong sense of what’s going to happen, and that premonition comes true upon reading the rest of the paper.
-
-In this talk I use this idea briefly to discuss three points: whether we’re allowed to ‘accidentally’ introduce confounds in our materials; how the main-text examples in a paper relate to what’s in the appendix; and under what circumstances it’s really necessary to leave the armchair and actually run a study.
-
 ### November 15 - 14:00-14:50 CET
 **[Ingmar Brilmayer](https://idsl1.phil-fak.uni-koeln.de/personen/lehrende-a-z/dr-ingmar-brilmayer)**, ***University of Cologne***
 
-**Abstract**
-Available soon.
+**Combined eyetracking and EEG in an interactive setting: the what, the why and the wherefore**
+In this talk, I will talk about setup, data recording and data analysis in our interactive laboratory in Cologne. In the first part of the talk, I will talk about the requirements for interactive research in terms of hardware and software. In the second part of the talk, I will present two studies that we designed and conducted in our lab, the difficulties with building the experiment, as well as with data analysis that arise from the naturalistic design of the studies. In the last part, I will present results of these experiments, showing that, despite all the difficulties, it is worth the effort.
 
 ### December 6 - 16:00-16:50 CET
 **[Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html)**, ***Saarland University***
@@ -38,4 +29,11 @@ Available soon.
 
 ## Past meetings
 
+### October 18 - 16:00-16:50 CEST
+**[Chris Cummins](https://www.crcummins.com/)**, ***University of Edinburgh***
 
+**Psychic linguistics?**
+
+Readers of experimental linguistics papers can occasionally be struck by a curious sensation. Based on what’s in the methods section, you don’t know whether a particular manipulation will make a difference to the outcome variable (say, response time), or in which direction it will shift if so. But when you look at the full lists of stimuli, you suddenly develop a strong sense of what’s going to happen, and that premonition comes true upon reading the rest of the paper.
+
+In this talk I use this idea briefly to discuss three points: whether we’re allowed to ‘accidentally’ introduce confounds in our materials; how the main-text examples in a paper relate to what’s in the appendix; and under what circumstances it’s really necessary to leave the armchair and actually run a study.
