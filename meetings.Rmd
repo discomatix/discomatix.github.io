@@ -19,13 +19,15 @@ We will kick off our interest group with an online mini-series this winter semes
 **[Ingmar Brilmayer](https://idsl1.phil-fak.uni-koeln.de/personen/lehrende-a-z/dr-ingmar-brilmayer)**, ***University of Cologne***
 
 **Combined eyetracking and EEG in an interactive setting: the what, the why and the wherefore**
+
 In this talk, I will talk about setup, data recording and data analysis in our interactive laboratory in Cologne. In the first part of the talk, I will talk about the requirements for interactive research in terms of hardware and software. In the second part of the talk, I will present two studies that we designed and conducted in our lab, the difficulties with building the experiment, as well as with data analysis that arise from the naturalistic design of the studies. In the last part, I will present results of these experiments, showing that, despite all the difficulties, it is worth the effort.
 
 ### December 6 - 16:00-16:50 CET
 **[Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html)**, ***Saarland University***
 
-**Abstract**
-Available soon.
+**Combining experimental work with computational modelling to better understand pragmatic processing**
+
+In this talk, I will argue that complementing experimental research with computational modelling can be highly beneficial for developing a deeper understanding of pragmatic processing in humans. I will illustrate this claim with an example from current research at our lab, where we investigated how comprehenders adapt to speaker-specific use of uncertainty expressions (e.g., one speaker uses the word “probably” rather generously in situations where the probability of the event is not all that high, vs. another speaker who uses the word “probably” more cautiously). Specifically, we were interested in individual differences between study participants with respect to how strongly they adapt their expectations / interpretations to how they have experienced the two speakers use uncertainty expressions like “probably”. We examined how any differences in adaptation are related to individual differences between participants (working memory updating, reasoning ability, linguistic experience, theory of mind abilities). In the experiment we found a correlation between adaptation strength and abilities in terms of working memory updating as measured by the keep track task. I will discuss our efforts in constructing a computational model of this effect, and what additional questions this exercise brought up.
 
 ## Past meetings
 
