@@ -14,6 +14,13 @@ h1 {
 }
 </style>
 
+```{css, echo = FALSE}
+#TOC { 
+  opacity: 0;
+  transition: visibility 0s linear 0.5s, opacity 0.5s;
+  }
+```  
+  
 ```{r, echo = FALSE, fig.align = 'center',}
 knitr::include_graphics("logo/DiscoMatix_dark_transparent.png")
 ```

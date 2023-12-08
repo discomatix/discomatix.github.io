@@ -11,31 +11,54 @@ h1 {
 }
 </style>
 
-We will kick off our interest group with an online mini-series this winter semester. You can find our upcoming and past meetings below. To join these sessions, please send an email to  'discomatix [dot] group [at] gmail [dot] com'.
+We kicked off our interest group with an online mini-series in the winter semester of 2023. In 2024 we will have a special winter event in February followed by another mini-series in the spring. You can find our upcoming and past meetings below. To join these sessions, please send an email to  'discomatix [dot] group [at] gmail [dot] com'.
 
 ## Upcoming meetings
 
-### November 15 - 14:00-14:50 CET
-**[Ingmar Brilmayer](https://idsl1.phil-fak.uni-koeln.de/personen/lehrende-a-z/dr-ingmar-brilmayer)**, ***University of Cologne***
+### February 6 - 14:00-14:50 CET
+**[Anita Slonimska](https://www.mpi.nl/people/slonimska-anita)**, ***Max Planck Institute of Psycholinguistics***
 
-**Combined eyetracking and EEG in an interactive setting: the what, the why and the wherefore**
+**Rethinking communicative efficiency: insights from sign languages**\
+\
 
-In this talk, I will talk about setup, data recording and data analysis in our interactive laboratory in Cologne. In the first part of the talk, I will talk about the requirements for interactive research in terms of hardware and software. In the second part of the talk, I will present two studies that we designed and conducted in our lab, the difficulties with building the experiment, as well as with data analysis that arise from the naturalistic design of the studies. In the last part, I will present results of these experiments, showing that, despite all the difficulties, it is worth the effort.
+**[Jonas Nölle](https://scholar.google.co.uk/citations?user=iISC70gAAAAJ&hl=en)**, ***University of Glasgow***
 
-### December 6 - 16:00-16:50 CET
-**[Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html)**, ***Saarland University***
+**More than affect: Facial expressions serve as pragmatic signals in multimodal communication**\
+\
+
+**[Schuyler Laparle](https://sites.google.com/view/schuyler-laparle/)**, ***Tilburg University***
+
+**The iconicity of abstract structure: gesturing discourse relations**
+
+
+## Past meetings
+
+<details>
+<summary>Winter mini-series 2023</summary>
+
+<details>
+<summary>December 6 - **[Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html)**, ***Saarland University***</summary>
 
 **Combining experimental work with computational modelling to better understand pragmatic processing**
 
 In this talk, I will argue that complementing experimental research with computational modelling can be highly beneficial for developing a deeper understanding of pragmatic processing in humans. I will illustrate this claim with an example from current research at our lab, where we investigated how comprehenders adapt to speaker-specific use of uncertainty expressions (e.g., one speaker uses the word “probably” rather generously in situations where the probability of the event is not all that high, vs. another speaker who uses the word “probably” more cautiously). Specifically, we were interested in individual differences between study participants with respect to how strongly they adapt their expectations / interpretations to how they have experienced the two speakers use uncertainty expressions like “probably”. We examined how any differences in adaptation are related to individual differences between participants (working memory updating, reasoning ability, linguistic experience, theory of mind abilities). In the experiment we found a correlation between adaptation strength and abilities in terms of working memory updating as measured by the keep track task. I will discuss our efforts in constructing a computational model of this effect, and what additional questions this exercise brought up.
+</details>
 
-## Past meetings
+<details>
+<summary>November 15 - **[Ingmar Brilmayer](https://idsl1.phil-fak.uni-koeln.de/personen/lehrende-a-z/dr-ingmar-brilmayer)**, ***University of Cologne***</summary>
 
-### October 18 - 16:00-16:50 CEST
-**[Chris Cummins](https://www.crcummins.com/)**, ***University of Edinburgh***
+**Combined eyetracking and EEG in an interactive setting: the what, the why and the wherefore**
+
+In this talk, I will talk about setup, data recording and data analysis in our interactive laboratory in Cologne. In the first part of the talk, I will talk about the requirements for interactive research in terms of hardware and software. In the second part of the talk, I will present two studies that we designed and conducted in our lab, the difficulties with building the experiment, as well as with data analysis that arise from the naturalistic design of the studies. In the last part, I will present results of these experiments, showing that, despite all the difficulties, it is worth the effort.
+</details>
+
+<details>
+<summary>October 18 - **[Chris Cummins](https://www.crcummins.com/)**, ***University of Edinburgh***</summary>
 
 **Psychic linguistics?**
 
 Readers of experimental linguistics papers can occasionally be struck by a curious sensation. Based on what’s in the methods section, you don’t know whether a particular manipulation will make a difference to the outcome variable (say, response time), or in which direction it will shift if so. But when you look at the full lists of stimuli, you suddenly develop a strong sense of what’s going to happen, and that premonition comes true upon reading the rest of the paper.
 
 In this talk I use this idea briefly to discuss three points: whether we’re allowed to ‘accidentally’ introduce confounds in our materials; how the main-text examples in a paper relate to what’s in the appendix; and under what circumstances it’s really necessary to leave the armchair and actually run a study.
+</details>
+</details>

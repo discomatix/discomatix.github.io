@@ -11,4 +11,6 @@ navbar:
       href: team.html
     - text: "Mission statement"
       href: mission-statement.html
-output: distill::distill_article
+output:
+  distill::distill_article:
+    toc: true
