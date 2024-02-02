@@ -11,7 +11,7 @@ h1 {
 }
 </style>
 
-We kicked off our interest group with an online Autumn series in 2023. In 2024, we will have a special Winter Session in February, followed by a Spring Series, starting in April. You can find our upcoming and past meetings below. To join these sessions, please send an email to 'discomatix [dot] group [at] gmail [dot] com'.
+We kicked off our interest group with an online Autumn series in 2023. In 2024, we will have a special Winter Session in February, followed by a Spring series, starting in April. You can find our upcoming and past meetings below. To join our sessions, please send an email to 'discomatix [dot] group [at] gmail [dot] com'.
 
 ## Upcoming meetings
 
@@ -37,6 +37,10 @@ On Tuesday February 6 (16:00-16:50 CET) we'll have a special themed session on m
 ### **Spring series 2024**
 
 April 9 - **[Nicole Gotzner](https://sites.google.com/view/nicolegotzner)**, ***Osnabrück University***
+
+**Bringing Grice to the lab: How to do interactive experiments on pragmatics and communication**
+
+Since Grice’s monumental proposal, communication is construed as a cooperative enterprise involving a speaker and a hearer. Yet most experimental research in Cognitive Science is monadic and this is at odds with the fact that communication is a joint activity (Pickering and Garrod, 2021). Moreover, it presents us with an empirical gap: almost no fair empirical test of the Gricean model exists. I will discuss two strands of research that try to close this gap. (1) Work on implicature with interactive dialog experiments (e.g. Gotzner and Benz, 2018; Benz and Gotzner, 2021) and (2) ongoing research on referential communication about concepts with Kristina Kobrock and Charlotte Uhlemann. At the end of my talk, I will briefly discuss how multi-agent modeling tools can be used to tackle core questions about communication.
 
 May 14 - **Panel discussion, more details soon**
 
