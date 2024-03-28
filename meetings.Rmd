@@ -11,7 +11,7 @@ h1 {
 }
 </style>
 
-We kicked off our interest group with an online Autumn series in 2023. In 2024, we had a special Winter Session in February, and we are having a Spring series starting in April. You can find our upcoming and past meetings below. To join our sessions, please send an email to 'discomatix [dot] group [at] gmail [dot] com'.
+We kicked off our interest group with an online Autumn series in 2023. In 2024, we had a special Winter session in February, and we are having a Spring series starting in April. You can find our upcoming and past meetings below. To join our sessions, please send an email to 'discomatix [dot] group [at] gmail [dot] com'.
 
 ## Upcoming meetings
 
@@ -31,7 +31,7 @@ June 11 - **[Tatjana Scheffler](https://tscheffler.github.io/)**, ***Ruhr-Univer
 ## Past meetings
 
 <details>
-<summary>**February 6 - Winter Session**</summary>
+<summary>**Winter session 2024**</summary>
 
 On February 6 we had a special themed session on multimodality in discourse and pragmatics with 5-min flash talks by the speakers below. 
 
