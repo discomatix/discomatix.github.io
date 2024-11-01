@@ -17,23 +17,32 @@ We kicked off our interest group with an online Autumn series in 2023. In 2024, 
 
 ### **Autumn series 2024**
 
-October 15 - **[Gareth Carrol](https://www.birmingham.ac.uk/staff/profiles/elal/carrol-gareth)**, **University of Birmingham**
+November 19 - **[Paula Rubio-Fernández](https://www.mpi.nl/people/rubio-fernandez-paula)**, **Max Planck Institute for Psycholinguistics**
 
-**He’s a real weasel: designing a way to investigate markers of stance and metaphorical meaning with different reading measures**
+**The Cognitive Trinity of Common Ground**
 
-In this talk I will discuss an ongoing work-in-progress project (with Vinicius Macuch) looking at the interpretation of words like “real”, which can convey literal or non-literal meaning (in this case, serving a more pragmatic role as an intensifier in examples like “a real piece of work” or “a real weasel”). We are interested in how readers interpret “real” as a part of incremental, online processing, and how this interacts with aspects such as conventionality (i.e. whether the thing being intensified has a clear, established metaphorical meaning). The focus of this talk is how we can design a study to investigate this, focusing on aspects like how specific word choices / combinations might change interpretations, how more / less conventionalised meanings might lead to different outcomes, and how other cues might need to be controlled and / or manipulated. I will also consider how and why different methods – online self-paced reading vs. lab-based eye-tracking while reading - might give complementary results, and what this means for the design of stimuli.
-
-November 19 - **[Paula Rubio-Fernández](https://www.mpi.nl/people/rubio-fernandez-paula)** - TBA
+Human communication is built around interlocutors’ common ground (CG), or the information they assume to share. Despite having been the focus of intense interdisciplinary research for more than 60 years, we do not yet understand how CG works, or even what exactly it is. In this talk I will introduce a new research program that is essential to understanding CG: I propose to study CG as a product of cultural evolution. This approach requires identifying (i) those cognitive capacities that are required for the emergence of CG in human cognition, and (ii) how those capacities interact in (a) the development of CG through children’s social learning across cultures; (b) its formation through social interaction across the lifespan, and (c) its management in conversation across languages. I hypothesize that forming and using CG is a complex human ability that emerges from the interaction of three cognitive capacities — joint attention, shared memory, and the use of reference systems — under a rationality principle. This is what I informally call the *Cognitive Trinity of Common Ground*, which could also be described as a naïve model of rational memory.
 
 December 10 - **[Irene Mognon](https://irenemognon.eu/)** and **[Petra Hendriks](https://www.let.rug.nl/~hendriks/personal/index.html)** - TBA
 
 **All sessions take place at 16:00 CE(S)T**
 
 
-
-
 ## Past meetings
 
+<details>
+<summary>**Autumn series 2024**</summary>
+
+<details>
+<summary>October 15 - **[Gareth Carrol](https://www.birmingham.ac.uk/staff/profiles/elal/carrol-gareth)**, **University of Birmingham**</summary>
+
+**He’s a real weasel: designing a way to investigate markers of stance and metaphorical meaning with different reading measures**
+
+In this talk I will discuss an ongoing work-in-progress project (with Vinicius Macuch) looking at the interpretation of words like “real”, which can convey literal or non-literal meaning (in this case, serving a more pragmatic role as an intensifier in examples like “a real piece of work” or “a real weasel”). We are interested in how readers interpret “real” as a part of incremental, online processing, and how this interacts with aspects such as conventionality (i.e. whether the thing being intensified has a clear, established metaphorical meaning). The focus of this talk is how we can design a study to investigate this, focusing on aspects like how specific word choices / combinations might change interpretations, how more / less conventionalised meanings might lead to different outcomes, and how other cues might need to be controlled and / or manipulated. I will also consider how and why different methods – online self-paced reading vs. lab-based eye-tracking while reading - might give complementary results, and what this means for the design of stimuli.
+
+*For a recording of this talk, send us an email.*
+</details>
+</details>
 
 <details>
 <summary>**Spring series 2024**</summary>
