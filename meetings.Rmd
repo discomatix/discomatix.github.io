@@ -17,13 +17,13 @@ We kicked off our interest group with an online Autumn series in 2023. In 2024, 
 
 ### **Autumn series 2024**
 
-November 19 - **[Paula Rubio-Fernández](https://www.mpi.nl/people/rubio-fernandez-paula)**, **Max Planck Institute for Psycholinguistics**
+December 10 - **[Irene Mognon](https://irenemognon.eu/)**, **University of Frankfurt** and **[Petra Hendriks](https://www.let.rug.nl/~hendriks/personal/index.html)**, **University of Groningen**
 
-**The Cognitive Trinity of Common Ground**
+**Reconciling Scalar Implicature Theories with Processing Data**
 
-Human communication is built around interlocutors’ common ground (CG), or the information they assume to share. Despite having been the focus of intense interdisciplinary research for more than 60 years, we do not yet understand how CG works, or even what exactly it is. In this talk I will introduce a new research program that is essential to understanding CG: I propose to study CG as a product of cultural evolution. This approach requires identifying (i) those cognitive capacities that are required for the emergence of CG in human cognition, and (ii) how those capacities interact in (a) the development of CG through children’s social learning across cultures; (b) its formation through social interaction across the lifespan, and (c) its management in conversation across languages. I hypothesize that forming and using CG is a complex human ability that emerges from the interaction of three cognitive capacities — joint attention, shared memory, and the use of reference systems — under a rationality principle. This is what I informally call the *Cognitive Trinity of Common Ground*, which could also be described as a naïve model of rational memory.
+Like other disciplines, linguistics relies on theory development as a vital component of its empirical research cycle. Ideally, experiments should test theories, and theories should inform experiments, with continuous cyclic interactions between the two. In this talk, we will focus on two prominent theories of scalar implicatures: the Grammatical Theory and the Relevance Theory framework. We will illustrate how each of these theories has received markedly different interpretations in the experimental literature, leading to contradictory predictions regarding the processing steps and the time course of scalar implicature generation. For example, whereas some experimental studies predicted - based on the Grammatical Theory - that the decision to generate scalar implicatures should be cognitively costly, other experimental studies based on the same theory predicted that cognitive effort or delays should not be observed in association with scalar implicature generation.
 
-December 10 - **[Irene Mognon](https://irenemognon.eu/)** and **[Petra Hendriks](https://www.let.rug.nl/~hendriks/personal/index.html)** - TBA
+These contradictory predictions show the importance of spelling out and clarifying the often hidden assumptions of linguistic theories. Furthermore, they suggest that since linguistic theories often rely on assumptions from other fields of cognitive science, it is essential to carefully consider the alignment between linguistic theories and other relevant theories of cognition. This will allow researchers to optimally engage in the empirical cycle and shed more light on the characteristics and processing of scalar implicatures in particular, and pragmatics more in general.
 
 **All sessions take place at 16:00 CE(S)T**
 
@@ -32,6 +32,16 @@ December 10 - **[Irene Mognon](https://irenemognon.eu/)** and **[Petra Hendriks]
 
 <details>
 <summary>**Autumn series 2024**</summary>
+
+<details>
+<summary>November 19 - **[Paula Rubio-Fernández](https://www.mpi.nl/people/rubio-fernandez-paula)**, **Max Planck Institute for Psycholinguistics**</summary>
+
+**The Cognitive Trinity of Common Ground**
+
+Human communication is built around interlocutors’ common ground (CG), or the information they assume to share. Despite having been the focus of intense interdisciplinary research for more than 60 years, we do not yet understand how CG works, or even what exactly it is. In this talk I will introduce a new research program that is essential to understanding CG: I propose to study CG as a product of cultural evolution. This approach requires identifying (i) those cognitive capacities that are required for the emergence of CG in human cognition, and (ii) how those capacities interact in (a) the development of CG through children’s social learning across cultures; (b) its formation through social interaction across the lifespan, and (c) its management in conversation across languages. I hypothesize that forming and using CG is a complex human ability that emerges from the interaction of three cognitive capacities — joint attention, shared memory, and the use of reference systems — under a rationality principle. This is what I informally call the *Cognitive Trinity of Common Ground*, which could also be described as a naïve model of rational memory.
+
+*For a recording of this talk, send us an email.*
+</details>
 
 <details>
 <summary>October 15 - **[Gareth Carrol](https://www.birmingham.ac.uk/staff/profiles/elal/carrol-gareth)**, **University of Birmingham**</summary>
