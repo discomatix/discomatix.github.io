@@ -15,7 +15,7 @@ Our interest group was founded in 2023 by Clare Patterson, Marian Marchal, and V
 
 **Clare Patterson**
 
-I’m a lecturer at the University of Warwick, UK. My research interests are in the processing of sentence and discourse-level phenomena related to coherence such as anaphora and discourse connectives. I’ve used offline and online experimental methods, including self-paced reading and eye-tracking, to investigate various aspects of anaphora resolution both in first-language users and in adult second-language learners. I’m also interested in how our findings can be modelled using Bayesian frameworks, how we can investigate other discourse-level phenomena using more naturalistic experimental paradigms, and how to combine these with corpus and modelling approaches.
+I’m currently an assistant professor in the Psychology department at the University of Warwick, UK. My research interests are in the processing of sentence and discourse-level phenomena related to coherence such as anaphora and discourse connectives. I’ve used offline and online experimental methods, including self-paced reading and eye-tracking, to investigate various aspects of anaphora resolution both in first-language users and in adult second-language learners. I’m also interested in how our findings can be modelled using Bayesian frameworks, how we can investigate other discourse-level phenomena using more naturalistic experimental paradigms, and how to combine these with corpus and modelling approaches.
 
 
 **Marian Marchal**
