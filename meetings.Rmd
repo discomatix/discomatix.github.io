@@ -11,19 +11,10 @@ h1 {
 }
 </style>
 
-We kicked off our interest group with an online Autumn series in 2023. In 2024, we had a special Winter session in February and a Spring series between April and June. Starting in October 2024 we are having an Autumn series. You can find our upcoming and past meetings below. To join our sessions, please send an email to 'discomatix [dot] group [at] gmail [dot] com'.
+We kicked off our interest group with an online Autumn series in 2023. In 2024, we had a special Winter session, a Spring series, as well as an Autumn series. We are currently planning a Spring series for 2025. You can find our upcoming and past meetings below. To join our sessions, please send an email to 'discomatix [dot] group [at] gmail [dot] com'.
 
 ## Upcoming meetings
 
-### **Autumn series 2024**
-
-December 10 - **[Irene Mognon](https://irenemognon.eu/)**, **University of Frankfurt** and **[Petra Hendriks](https://www.let.rug.nl/~hendriks/personal/index.html)**, **University of Groningen**
-
-**Reconciling Scalar Implicature Theories with Processing Data**
-
-Like other disciplines, linguistics relies on theory development as a vital component of its empirical research cycle. Ideally, experiments should test theories, and theories should inform experiments, with continuous cyclic interactions between the two. In this talk, we will focus on two prominent theories of scalar implicatures: the Grammatical Theory and the Relevance Theory framework. We will illustrate how each of these theories has received markedly different interpretations in the experimental literature, leading to contradictory predictions regarding the processing steps and the time course of scalar implicature generation. For example, whereas some experimental studies predicted - based on the Grammatical Theory - that the decision to generate scalar implicatures should be cognitively costly, other experimental studies based on the same theory predicted that cognitive effort or delays should not be observed in association with scalar implicature generation.
-
-These contradictory predictions show the importance of spelling out and clarifying the often hidden assumptions of linguistic theories. Furthermore, they suggest that since linguistic theories often rely on assumptions from other fields of cognitive science, it is essential to carefully consider the alignment between linguistic theories and other relevant theories of cognition. This will allow researchers to optimally engage in the empirical cycle and shed more light on the characteristics and processing of scalar implicatures in particular, and pragmatics more in general.
 
 **All sessions take place at 16:00 CE(S)T**
 
@@ -32,6 +23,18 @@ These contradictory predictions show the importance of spelling out and clarifyi
 
 <details>
 <summary>**Autumn series 2024**</summary>
+
+<details>
+<summary>December 10 - **[Irene Mognon](https://irenemognon.eu/)**, **University of Frankfurt** and **[Petra Hendriks](https://www.let.rug.nl/~hendriks/personal/index.html)**, **University of Groningen**</summary>
+
+**Reconciling Scalar Implicature Theories with Processing Data**
+
+Like other disciplines, linguistics relies on theory development as a vital component of its empirical research cycle. Ideally, experiments should test theories, and theories should inform experiments, with continuous cyclic interactions between the two. In this talk, we will focus on two prominent theories of scalar implicatures: the Grammatical Theory and the Relevance Theory framework. We will illustrate how each of these theories has received markedly different interpretations in the experimental literature, leading to contradictory predictions regarding the processing steps and the time course of scalar implicature generation. For example, whereas some experimental studies predicted - based on the Grammatical Theory - that the decision to generate scalar implicatures should be cognitively costly, other experimental studies based on the same theory predicted that cognitive effort or delays should not be observed in association with scalar implicature generation.
+
+These contradictory predictions show the importance of spelling out and clarifying the often hidden assumptions of linguistic theories. Furthermore, they suggest that since linguistic theories often rely on assumptions from other fields of cognitive science, it is essential to carefully consider the alignment between linguistic theories and other relevant theories of cognition. This will allow researchers to optimally engage in the empirical cycle and shed more light on the characteristics and processing of scalar implicatures in particular, and pragmatics more in general.
+
+*For a recording of this talk, send us an email.*
+</details>
 
 <details>
 <summary>November 19 - **[Paula Rubio-Fernández](https://www.mpi.nl/people/rubio-fernandez-paula)**, **Max Planck Institute for Psycholinguistics**</summary>
