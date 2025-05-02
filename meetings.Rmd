@@ -11,7 +11,6 @@ h1 {
 }
 </style>
 
-<<<<<<< HEAD
 We kicked off our interest group with an online Autumn series in 2023. In 2024, we had a special Winter session, a Spring series, as well as an Autumn series. You can find our upcoming and past meetings below, including our 2025 Spring series. To join our sessions, please send an email to 'discomatix [dot] group [at] gmail [dot] com'.
 
 ## Upcoming meetings
@@ -31,16 +30,6 @@ How does research in experimental and developmental pragmatics measure irony und
 
 June 10 - **[Hannah Rohde](https://www.lel.ed.ac.uk/~hrohde/)**, **University of Edinburgh** - TBA
 
-=======
-We kicked off our interest group with an online Autumn series in 2023. In 2024, we had a special Winter session, a Spring series, as well as an Autumn series. We are currently planning a Spring series for 2025. You can find our upcoming and past meetings below. To join our sessions, please send an email to 'discomatix [dot] group [at] gmail [dot] com'.
-
-## Upcoming meetings
-
-
-**All sessions take place at 16:00 CE(S)T**
-
-
->>>>>>> 185dfbb4f17aef8c5751197e8dc35250d8f66193
 ## Past meetings
 
 <details>
