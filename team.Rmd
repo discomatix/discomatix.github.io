@@ -1,0 +1,28 @@
+---
+title: "Who we are"
+---
+
+<style>
+body {
+  text-align: justify}
+
+h1 {
+  text-align: center
+}
+</style>
+
+Our interest group was founded in 2023 by Clare Patterson, Marian Marchal, and Vinicius Macuch Silva. Starting 2025, the team consists of Clare Patterson, Morgan Moyer, and Vinicius Macuch Silva.
+
+**Clare Patterson**
+
+I’m currently an assistant professor in the Psychology department at the University of Warwick, UK. My research interests are in the processing of sentence and discourse-level phenomena related to coherence such as anaphora and discourse connectives. I’ve used offline and online experimental methods, including self-paced reading and eye-tracking, to investigate various aspects of anaphora resolution both in first-language users and in adult second-language learners. I’m also interested in how our findings can be modelled using Bayesian frameworks, how we can investigate other discourse-level phenomena using more naturalistic experimental paradigms, and how to combine these with corpus and modelling approaches.
+
+
+**Morgan Moyer**
+
+I'm a postdoc at the Sorbonne University and affiliated with the Institute Jean-Nicod in Paris, France. I'm interested in how hearers construct meaning in discourse from different sources of information, and what the reveals about the structure of the mind. I use primarily quantitative methods, but was also trained in formal linguistic methods. 
+
+
+**Vinicius Macuch Silva**
+
+I’m a post-doctoral researcher working at the Institute of Linguistics of the Goethe University Frankfurt. My research deals with various aspects of linguistic meaning and how people use language in different communicative settings (e.g. in face-to-face interaction, online, etc.). I primarily use quantitative empirical methods, including controlled experimentation as well as statistical and corpus-analytic methods, to investigate questions related to pragmatic inferencing, strategic communication, argumentation and stance-taking, as well as expressive and affective meaning.

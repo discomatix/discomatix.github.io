@@ -1,0 +1,16 @@
+name: "DiscomatiX"
+title: "DiscoMatiX"
+output_dir: "."
+navbar:
+  logo:
+    image: logo/DiscoMatiX_dark_transparent.png
+  right:
+    - text: "Meetings"
+      href: meetings.html
+    - text: "Team"
+      href: team.html
+    - text: "Mission statement"
+      href: mission-statement.html
+output:
+  distill::distill_article:
+    toc: true

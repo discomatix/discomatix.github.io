@@ -1,0 +1,49 @@
+---
+title: "Welcome to DiscoMatiX"
+description:
+  
+site: distill::distill_website
+---
+
+<style>
+body {
+  text-align: justify}
+
+h1 {
+  text-align: center
+}
+</style>
+
+```{css, echo = FALSE}
+#TOC { 
+  opacity: 0;
+  transition: visibility 0s linear 0.5s, opacity 0.5s;
+  }
+```  
+  
+```{r, echo = FALSE, fig.align = 'center',}
+knitr::include_graphics("logo/DiscoMatix_dark_transparent.png")
+```
+
+### Who?
+
+We are a group of (early career) researchers working on **Disco**urse and prag**Mati**cs using e**X**perimental approaches. Our group is specifically focused on the interface between theoretical and empirical approaches.
+
+### What? 
+
+We bring together interested researchers in the fields of discourse and pragmatics to exchange ideas and experiences. Through these encounters, we aim to:
+
+* critically assess the (in)compatibility of different theoretical frameworks in the field of discourse and pragmatics
+* develop best practices for empirically testing theoretical predictions in ecologically valid and theoretically stringent tasks
+
+Our first step is an on-line series, in which invited speakers discuss issues related to the above topics and researchers will have the opportunity to engage in discussion (see [Meetings](https://discomatix.github.io/meetings.html)).
+
+### Why?
+
+Empirical research in this field is difficult for two reasons: 
+
+* first, there is a gap between theoretical constructs and testable predictions
+
+* second, there is a tension between the contextual nature of discourse and pragmatics and experimental control
+
+For more information, read our [Mission statement](https://discomatix.github.io/mission-statement.html).
