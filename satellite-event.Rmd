@@ -1,0 +1,38 @@
+---
+title: "DiscoMatiX event XPrag 2025"
+---
+
+<style>
+body {
+  text-align: justify}
+
+h1 {
+  text-align: center
+}
+</style>
+
+## Panel discussion
+
+**Discourse relations and coherence**
+
+Discourse relations are an inherently situated phenomena, sitting at the corner of language use and grammar. On the one hand, they challenge theories of grammar since their properties extend beyond single sentences (or propositions), and thus the purview of certain theories of grammar. On the other hand, they demonstrate that principles exist which determine and constrain how the sentences (propositions) of discourse may or may not be connected. This duality makes them challenging to study, as well as the fact that discourses often involve language users interacting with the world and with each other dynamically. Discourse relations and coherence are thus of interest to formalists, taxonomists, computationalists, psycholinguists and philosophers.
+
+Many theories of discourse structure and coherence have been put forward to try and capture these processes and how they are realized in various instances and contexts of language use. In this panel discussion, we bring together two experts working on discourse structure and coherence from different perspectives, with the goal of problematizing the phenomenon: What is a theory of discourse structure/relation? What are the necessary and sufficient criteria for it? Which empirical facts are of central importance, and which present challenges? Finally, how does the theory relate to theories of language and its use? 
+
+We invite our speakers to take a meta-stance by tackling how they have approached the study of discourse coherence in their research, what they think the strengths and weaknesses of their particular frameworks/approach are, and how they think work in these frameworks relates to work in other frameworks. 
+
+## Logistics
+
+**Format**
+
+Introduction (14:30 - 14:40)
+
+Speaker 1 (14:40 - 15:30)
+
+Break 1 (15:30 - 15:40)
+
+Speaker 2 (15:40 - 16:30)
+
+Break 2 (16:30 - 16:40)
+
+Discussion (16:40 - 17:30)

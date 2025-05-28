@@ -7,6 +7,8 @@ navbar:
   right:
     - text: "Meetings"
       href: meetings.html
+    - text: "XPrag 2025 satellite event"
+      href: satellite-event.html
     - text: "Team"
       href: team.html
     - text: "Mission statement"
