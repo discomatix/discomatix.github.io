@@ -1,5 +1,5 @@
 ---
-title: "DiscoMatiX event XPrag 2025"
+title: "DiscoMatiX panel discussion XPrag 2025"
 ---
 
 <style>
@@ -11,7 +11,7 @@ h1 {
 }
 </style>
 
-## Panel discussion
+## Theme
 
 **Discourse relations and coherence**
 
@@ -20,6 +20,16 @@ Discourse relations are an inherently situated phenomena, sitting at the corner 
 Many theories of discourse structure and coherence have been put forward to try and capture these processes and how they are realized in various instances and contexts of language use. In this panel discussion, we bring together two experts working on discourse structure and coherence from different perspectives, with the goal of problematizing the phenomenon: What is a theory of discourse structure/relation? What are the necessary and sufficient criteria for it? Which empirical facts are of central importance, and which present challenges? Finally, how does the theory relate to theories of language and its use? 
 
 We invite our speakers to take a meta-stance by tackling how they have approached the study of discourse coherence in their research, what they think the strengths and weaknesses of their particular frameworks/approach are, and how they think work in these frameworks relates to work in other frameworks. 
+
+## Invited panelists
+
+[Daniel Altshuler](https://danielaltshuler.com/) (University of Oxford, UK)
+
+Daniel is an associate professor of semantics in the Faculty of Linguistics, Philology and Phonetics at the University of Oxford and the dean and tutorial fellow of Jesus College, and lecturer of Brasenose College. He received his PhD in 2010 from Rutgers University. His work often confronts issues at the intersection of linguistics, philosophy and cognitive science, and has worked on a range of topics in the semantics and pragmatics from the semantics of tense and aspect to anaphora and coherence.
+
+[Jet Hoek](https://jethoek.github.io/) (Radboud University, The Netherlands)
+
+Jet is an assistant professor at Radbound University Nijmegen's Department of Language and Communication. She received her PhD in 2018 from Utrecht University, and has been a postdoc at the University of Edinburgh as well as at the University of Cologne. Her work surrounds issues in discourse, specifically the study of coreference and coherence relations from a cognitive perspective.
 
 ## Logistics
 
@@ -30,8 +40,6 @@ September 16, 14:30 - 17:30
 University of Cambridge, Cambridge, UK
 
 **Format & schedule**
-
-Panel discussion with [Daniel Altshuler](https://danielaltshuler.com/) (Oxford) and [Jet Hoek](https://jethoek.github.io/) (Radboud).
 
 Introduction (14:30 - 14:40)
 
